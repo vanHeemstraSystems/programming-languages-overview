@@ -1,7 +1,7 @@
 programming-languages-overview
 #Programming Languages Overview
 
-Based on "Linux Pocket Guide, Essential Commands" by O'Reilly Daniel J. Barrett (3rd edition, ISBN 9781491927571, Blackwell)
+Based on "Linux Pocket Guide, Essential Commands" by O'Reilly Daniel J. Barrett (3rd edition, ISBN 9781491927571, Blackwell), see http://shop.oreilly.com/product/0636920040927.do
 
 ## The Filesystem
 
